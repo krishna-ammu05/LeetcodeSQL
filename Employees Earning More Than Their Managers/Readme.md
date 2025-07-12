@@ -42,13 +42,13 @@ Employee table:
 <strong>Explanation:</strong> Joe is the only employee who earns more than his manager.
 </pre>
 <h1>DESCRIPTION</h1>
-<p>We want to compare:
-employee.salary
-with
-manager.salary
-For that, we need to:
-Join the Employee table with itself.
-Use aliases to distinguish between employees and their managers.
-Compare salaries.
-Select employees whose salary is greater than their manager's salary.</p>
+<p>We want to compare:</p>
+<p>employee.salary</p>
+<p>with</p>
+<p>manager.salary</p>
+<p>For that, we need to:</p>
+<p>Join the Employee table with itself.</p>
+<p>Use aliases to distinguish between employees and their managers.</p>
+<p>Compare salaries.</p>
+<p>Select employees whose salary is greater than their manager's salary.</p>
 </div>
